@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Cesar!
 
-<!--
-**zeecnla/zeecnla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love learning and hearing about complex problems and interesting solutions. When I am not coding I am playing video games or doing photography
 
-Here are some ideas to get you started:
+Skills: .NET/ REACT / JS / HTML / CSS / SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on side project, that I will not abandon in the dark hole of abandoned side projects, using .NET and ReactJs 
+- 🌱 I’m currently learning Swift and the mobile dev world. 
+- ⚡ Fun fact: I did not try a burger until I was 18 years old  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/zeecnla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](cesarmelchor.me)  
+
+
